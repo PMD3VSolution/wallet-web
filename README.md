@@ -68,7 +68,7 @@ The wallet should then be running on [http://localhost:3000](http://localhost:30
 
 ## Changing the default API URL
 
-By default the Explorer will connect to https://tronscan.io for its data. 
+By default the Explorer will connect to https://tronscan.org for its data. 
 
 When developing locally the url can be changed by defining the `API_URL` environment variable
 
